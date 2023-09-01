@@ -1,0 +1,40 @@
+{
+  "artigos": [
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo 1"
+  },
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo  2"
+  },
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo  3"
+  },
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo  4"
+  },
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo  4"
+  },
+  {
+    "img": "https://placehold.co/950x550/EEE/31343C",
+    "description": "Descrição",
+    "title": "Titulo",
+    "article": "artigo  4"
+  }
+]
+}
